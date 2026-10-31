@@ -62,5 +62,9 @@ Where to go next:
 
 - [Local Listings](https://www.jepto.com/local-listings): audit categories and services across every profile and update them in bulk.
 - [GBP Discovery tool](https://www.jepto.com/tools/gbp-discovery): browse categories and services and filter by attribute.
-- [Google Business Profile data source](https://www.jepto.com/data-warehouse/google-business-profile): the metrics and fields available, with the [help article](https://www.jepto.com/help/data-source-google-business-profile).
+- [Google Business Profile data source](https://www.jepto.com/data-sources/google-business-profile): the metrics and fields available, with the [help article](https://www.jepto.com/help/data-source-google-business-profile).
 - [Category and Service List](https://www.jepto.com/help/category-and-service-list): background on the Jepto list.
+
+## License
+
+This dataset is licensed under [CC BY 4.0](LICENSE). You can share and adapt it, including commercially, as long as you credit Jepto (jepto.com).
