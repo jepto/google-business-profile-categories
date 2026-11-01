@@ -1,0 +1,193 @@
+attribute_id,attribute,group,category_count
+has_assisted_listening_devices,Assisted listening devices,Accessibility,32
+has_hearing_loop,Assistive hearing loop,Accessibility,930
+has_wheelchair_accessible_entrance,Wheelchair accessible entrance,Accessibility,918
+has_wheelchair_accessible_parking,Wheelchair accessible parking lot,Accessibility,924
+has_wheelchair_accessible_restroom,Wheelchair accessible restroom,Accessibility,3670
+has_wheelchair_accessible_seating,Wheelchair accessible seating,Accessibility,3673
+wheelchair_rental_offerings,Wheelchair rental,Accessibility,45
+accepts_new_volunteers,Accepting new volunteers,Activities,2
+has_bicycles_for_rent,Bicycle rental,Activities,4
+has_hiking,Hiking,Activities,24
+has_all_inclusive,All-inclusive,Amenities,4
+has_baggage_storage,Baggage storage,Amenities,10
+has_bar_onsite,Bar onsite,Amenities,399
+has_barbecue_grill,Barbecue grill,Amenities,23
+has_baseball_field,Baseball field,Amenities,25
+has_basketball_court,Basketball court,Amenities,31
+has_child_care,Child care,Amenities,31
+has_cycling_lanes,Cycling lanes,Amenities,21
+has_restroom_unisex,Gender-neutral restroom,Amenities,3668
+has_golf_course,Golf course,Amenities,1
+has_tennis_courts,Has a tennis court,Amenities,32
+has_mechanic,Mechanic,Amenities,23
+has_picnic_tables,Picnic tables,Amenities,23
+has_restroom_public,Public restroom,Amenities,23
+has_restaurant,Restaurant,Amenities,57
+has_restroom,Restroom,Amenities,826
+has_sauna,Sauna,Amenities,5
+has_skateboard_area,Skateboarding area,Amenities,22
+has_playground_slides,Slides,Amenities,24
+has_stadium_seating,Stadium seating,Amenities,4
+has_swimming_pool,Swimming pool,Amenities,8
+swimming_pool_offerings,Swimming pool,Amenities,63
+has_playground_swings,Swings,Amenities,26
+has_volleyball_court,Volleyball court,Amenities,30
+wi_fi,Wi-Fi,Amenities,1135
+has_discounts_for_kids,Discounts for kids,Children,324
+has_discounts_for_families,Family discount,Children,322
+welcomes_children,Good for kids,Children,599
+has_changing_tables,Has changing table(s),Children,471
+has_high_chairs,High chairs,Children,400
+has_kid_friendly_activities,Kid-friendly activities,Children,114
+has_childrens_menu,Kids' menu,Children,397
+has_lactation_space,Nursing room,Children,334
+has_area_play,Playground,Children,38
+welcomes_families,Family-friendly,Crowd,464
+welcomes_lgbtq,LGBTQ+ friendly,Crowd,3490
+is_transgender_safespace,Transgender safespace,Crowd,3640
+serves_breakfast,Breakfast,Dining options,399
+serves_brunch,Brunch,Dining options,394
+has_catering,Catering,Dining options,397
+has_counter_service,Counter service,Dining options,401
+serves_dessert,Dessert,Dining options,414
+serves_dinner,Dinner,Dining options,393
+serves_lunch,Lunch,Dining options,395
+allows_outside_food,Outside food allowed,Dining options,26
+has_order_and_pay_ahead,Pay ahead,Dining options,406
+has_seating,Seating,Dining options,424
+is_owned_by_asian,Identifies as Asian-owned,From the business,3423
+is_black_owned,Identifies as Black-owned,From the business,3425
+is_owned_by_indigenous,Identifies as Indigenous-owned,From the business,3676
+is_owned_by_lgbtq,Identifies as LGBTQ+ owned,From the business,3479
+is_owned_by_latinx,Identifies as Latino-owned,From the business,3431
+is_owned_by_disability,Identifies as disabled-owned,From the business,3670
+is_owned_by_veterans,Identifies as veteran-owned,From the business,3441
+is_owned_by_women,Identifies as women-owned,From the business,3428
+is_small_business,Small business,From the business,769
+has_movies_3D,3D movies,Highlights,4
+has_discounts_for_active_military,Active military discounts,Highlights,196
+has_bar_games,Bar games,Highlights,26
+has_fireplace,Fireplace,Highlights,393
+has_karaoke_nights,Karaoke,Highlights,31
+has_live_music,Live music,Highlights,417
+has_live_performances,Live performances,Highlights,98
+has_seating_rooftop,Rooftop seating,Highlights,423
+local_specialty,Serves local specialty,Highlights,404
+suitable_for_watching_sports,Sports,Highlights,409
+has_trivia_night,Trivia night,Highlights,26
+serves_alcohol,Alcohol,Offerings,423
+has_all_you_can_eat_always,All you can eat,Offerings,398
+has_arcade_games,Arcade games,Offerings,29
+has_service_assembly,Assembly service,Offerings,98
+serves_beer,Beer,Offerings,413
+has_braille_menu,Braille menu,Offerings,404
+buys_goods_used,Buys used goods,Offerings,23
+has_car_rental,Car rental,Offerings,68
+has_car_wash,Car wash,Offerings,65
+has_cash_advance,Cash advance,Offerings,11
+has_check_cashing,Check cashing,Offerings,7
+serves_cocktails,Cocktails,Offerings,427
+serves_coffee,Coffee,Offerings,405
+serves_comfort_food,Comfort food,Offerings,403
+has_dancing,Dancing,Offerings,35
+sells_gas_diesel,Diesel gas,Offerings,1
+sells_gas_ethanol_free,Ethanol-free gas,Offerings,1
+serves_food,Food,Offerings,37
+serves_food_at_bar,Food at bar,Offerings,32
+has_free_air,Free air,Offerings,3
+has_full_service_gas,Full service gas,Offerings,3
+serves_halal_food,Halal food,Offerings,391
+serves_happy_hour_drinks,Happy hour drinks,Offerings,427
+serves_happy_hour_food,Happy hour food,Offerings,420
+serves_liquor,Hard liquor,Offerings,408
+sells_shoes_for_children,Kids' shoes,Offerings,55
+sells_toys_for_children,Kids' toys,Offerings,46
+serves_late_night_food,Late-night food,Offerings,406
+sells_clothing_for_men,Men's clothing,Offerings,30
+sells_shoes_for_men,Men's shoes,Offerings,7
+has_oil_change,Oil change,Offerings,133
+serves_organic,Organic dishes,Offerings,401
+sells_organic_products,Organic products,Offerings,20
+has_onsite_passport_photos,Passport photos,Offerings,49
+sells_food_prepared,Prepared foods,Offerings,28
+has_private_dining_room,Private dining room,Offerings,387
+has_service_repair,Repair services,Offerings,196
+has_salad_bar,Salad bar,Offerings,413
+has_service_guarantee,Service guarantee,Offerings,31
+serves_small_plates,Small plates,Offerings,397
+sells_goods_used,Used goods,Offerings,235
+serves_vegan,Vegan options,Offerings,381
+serves_vegetarian,Vegetarian options,Offerings,404
+serves_wine,Wine,Offerings,411
+sells_clothing_for_women,Women's clothing,Offerings,32
+sells_shoes_for_women,Women's shoes,Offerings,9
+has_parking_garage_free,Free parking garage,Parking,917
+has_parking_lot_free,Free parking lot,Parking,913
+has_parking_street_free,Free street parking,Parking,938
+has_parking_garage_paid,Paid parking garage,Parking,933
+has_parking_lot_paid,Paid parking lot,Parking,912
+has_parking_street_paid,Paid street parking,Parking,921
+has_parking_valet,Valet parking,Parking,578
+requires_cash_only,Cash-only,Payments,1048
+pay_check,Checks,Payments,1072
+pay_credit_card,Credit cards,Payments,1477
+pay_credit_card_types_accepted,Credit cards,Payments,1480
+pay_debit_card,Debit cards,Payments,1473
+pay_mobile_nfc,NFC mobile payments,Payments,1487
+has_dog_park,Dog park,Pets,23
+welcomes_dogs,Dogs allowed,Pets,442
+allows_dogs_inside,Dogs allowed inside,Pets,412
+allows_dogs_outside,Dogs allowed outside,Pets,406
+url_appointment,Appointment links,Place page URLs,1722
+url_covid_19_info_page,COVID-19 info link,Place page URLs,222
+url_facebook,Facebook,Place page URLs,3699
+url_instagram,Instagram,Place page URLs,3719
+url_inventory_search,Inventory search URL,Place page URLs,559
+url_linkedin,Linkedin,Place page URLs,3682
+url_menu,Menu link,Place page URLs,664
+url_order_ahead,Order ahead links,Place page URLs,497
+url_pinterest,Pinterest,Place page URLs,3720
+url_shop_online,Place an order link,Place page URLs,621
+url_reservations,Reservations links,Place page URLs,414
+url_tiktok,Tiktok,Place page URLs,3689
+url_twitter,Twitter,Place page URLs,3701
+url_facility_telemedicine_page,Virtual care link,Place page URLs,127
+url_youtube,Youtube,Place page URLs,3697
+accepts_new_patients,Accepts new patients,Planning,160
+accepts_reservations,Accepts reservations,Planning,424
+requires_appointments,Appointment required,Planning,1408
+requires_eligibility_verification,Eligibility requirement,Planning,2
+requires_membership,Membership required,Planning,155
+requires_reservations,Reservations required,Planning,404
+suitable_for_working_on_laptop,Good for working on laptop,Popular for,8
+has_recycling_batteries,Batteries,Recycling,244
+has_recycling_clothing,Clothing,Recycling,399
+has_recycling_electronics,Electronics,Recycling,655
+has_recycling_glass_bottles,Glass bottles,Recycling,106
+has_recycling_household_hazardous_waste,Hazardous household materials,Recycling,3
+has_recycling_ink_cartridges,Ink cartridges,Recycling,82
+has_recycling_light_bulbs,Light bulbs,Recycling,205
+has_recycling_metal_cans,Metal cans,Recycling,200
+has_recycling_plastic_bags,Plastic bags,Recycling,26
+has_recycling_plastic_bottles,Plastic bottles,Recycling,48
+has_recycling_plastic_foam,Plastic foam,Recycling,7
+has_curbside_pickup,Curbside pickup,Service options,1077
+has_delivery,Delivery,Service options,1159
+serves_dine_in,Dine-in,Service options,480
+has_drive_through,Drive-through,Service options,453
+has_grocery_pickup,Grocery pickup,Service options,2
+has_video_visits,Has online care,Service options,127
+has_in_store_pickup,In-store pickup,Service options,562
+has_in_store_shopping,In-store shopping,Service options,653
+languages_spoken,Language assistance,Service options,1494
+has_meal_service,Meal service,Service options,1
+has_no_contact_delivery,No-contact delivery,Service options,605
+offers_online_appointments,Online appointments,Service options,241
+offers_online_classes,Online classes,Service options,107
+offers_online_estimates,Online estimates,Service options,188
+has_onsite_services,Onsite services,Service options,530
+has_seating_outdoors,Outdoor seating,Service options,427
+has_outdoor_services,Outdoor services,Service options,46
+has_delivery_same_day,Same-day delivery,Service options,566
+has_takeout,Takeout,Service options,481
