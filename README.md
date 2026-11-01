@@ -40,8 +40,12 @@ All files are in [`data/`](data/).
 | `categories.csv` | category | `gcid`, `category`, `region_count`, `service_count`, `regions` (country codes separated by `;`) |
 | `category_services.csv` | category + service type | `gcid`, `category`, `service_type_id`, `service` |
 | `categories.json` | category (nested) | name, regions, services |
+| `attributes.csv` | attribute | `attribute_id`, `attribute`, `group`, `category_count` |
+| `category_attributes.csv` | category + attribute | `gcid`, `category`, `attribute_id`, `attribute`, `group` |
 
 `gcid` is Google's category ID, for example `gcid:restaurant`. Names are in English.
+
+Attribute files are a US English (en-US) export from the Jepto GBP Discovery tool, covering 192 attributes across 4,099 categories. They are a separate snapshot from the category files, so the two sets do not match exactly: 115 categories appear only in the attribute files, and 391 categories in `categories.csv` have no attribute rows.
 
 ## Choosing categories
 
